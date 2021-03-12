@@ -25,19 +25,19 @@ const skills = [
   <a href="https://getboostrap.com" className="focus:outline-none">
     <Icon className="text-5xl" icon={bootstrapIcon} />
   </a>,
-  <a href="https://nextjs.org" className="focus:outline-none">
+  <a href="https://spring.io" className="focus:outline-none">
     <Icon className="text-5xl" icon={SpringBoot} />
   </a>,
-  <a href="https://nextjs.org" className="focus:outline-none">
+  <a href="https://hibernate.org/" className="focus:outline-none">
   <Icon className="text-5xl" icon={Hibernate} />
 </a>,
-<a href="https://nextjs.org" className="focus:outline-none">
+<a href="https://www.mysql.com/" className="focus:outline-none">
     <Icon className="text-5xl" icon={Mysql} />
   </a>,
-  <a href="https://nextjs.org" className="focus:outline-none">
+  <a href="https://www.postgresql.org/" className="focus:outline-none">
   <Icon className="text-5xl" icon={postgres} />
 </a>,
-<a href="https://nextjs.org" className="focus:outline-none">
+<a href="https://www.mongodb.com/" className="focus:outline-none">
     <Icon className="text-5xl" icon={MonggoDB} />
 </a>,
 ];
